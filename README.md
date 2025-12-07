@@ -19,7 +19,6 @@ The file is fully self-contained and requires only Python’s built-in libraries
 ## How to Use
 Run the script:
 
-```bash
 python password_generator.py
 Enter the password length when prompted:
 

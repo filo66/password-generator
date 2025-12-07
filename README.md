@@ -23,15 +23,17 @@ python password_generator.py
 Enter the password length when prompted:
 
 enter password length: 12
+
 your password is: A$f9kL@2qP!x
-Description
+
+# Description
 main() handles user input and displays the generated password.
 
 generate_password(l) creates a password of length l using random characters.
 
 If the user enters a non-integer value, the program exits with an error message.
 
-Requirements
+# Requirements
 
 Python 3.x
 No external libraries required.
